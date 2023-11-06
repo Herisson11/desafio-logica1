@@ -36,3 +36,4 @@ else {
 
 
 console.log(NickName + " está na medalha... " + medalha)
+ 
